@@ -1,0 +1,46 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(199, 209, 204);
+}   
+h1{
+    color:rgb(6, 46, 23);
+    font-size:30px;
+    text-align: center;
+}
+.baslik{
+    color:rgb(30, 21, 21);
+    margin-right: 650px;
+    text-align: center;
+}
+.baslik ul{
+    float:right;
+}
+.baslik ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 8px;
+}
+.baslşk ul li a{
+text-decoration: none;
+}
+.aciklama {
+    color: rgb(19, 18, 18);
+    margin-right: 10px;
+    margin-top: 80px;
+    text-align: center;
+}
+.sanatcilar ul li {
+    margin: auto;
+    width: 60%;
+    border: 1px solid #6b2a5d;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+}
+.urunlist{
+    
+    margin-top: 100px;
+    text-align: center;
+    font-style: italic;
+
+}
